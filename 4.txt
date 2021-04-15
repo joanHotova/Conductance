@@ -1,0 +1,3 @@
+cluster1	1,4,2,3
+cluster2	5,9,6,8
+cluster4	10,7,16,11
